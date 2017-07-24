@@ -1,0 +1,69 @@
+.main-body{
+  padding: 68px 50px 0px 50px;
+}
+
+.thumbnail: {
+  border: none;
+}
+
+.webwork{
+    
+  height: 231px !important;
+  padding-top: 70px !important;
+}
+
+.img-thumbnail{
+  border: none;
+}
+
+#contactform{
+  padding-left:50px;
+  padding-right:37px;
+}
+
+.glyphicon{
+  font-size:30px;
+}
+
+.hrrule{
+  border-top: 3px dotted #0077ff;
+}
+
+.myName{
+  font-size:20px;
+  color: white;
+}
+
+.footer{
+  background-color:#232323;
+  color:white;
+}
+
+.copyright{
+  background-color: lightgray;
+  margin: 5px 0px 5px 0px;
+}
+
+body{
+   background-color: lightgray;
+}
+
+.well{
+  margin-bottom:2px;
+}
+
+.scrollable{
+  color: white !important;
+}
+
+#banner{
+  background-color: #2a7fb8;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+  background-color: #354963;
+}
+
+.header{
+  margin:10px 20px 10px 20px;
+}
